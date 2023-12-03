@@ -1,5 +1,3 @@
-import re
-
 input = open('input/day2.txt', 'r')
 lines = input.readlines()
 
